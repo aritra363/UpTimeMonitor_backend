@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "SET NODE_ENV=production&&nodemon index",
+    "start": "nodemon index",
     "build" : "npm i",
     "nmon" : "npm i nodemon"
   },
